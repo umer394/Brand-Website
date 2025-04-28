@@ -4,6 +4,7 @@ import Deals from "@/components/Deals";
 import Features from "@/components/Features";
 import Instagram from "@/components/FollowInstagram";
 import Hero from "@/components/Hero";
+import Newsletter from "@/components/Newsletter";
 
 
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
     <Features/>
     <div className="max-w-[1200px] mx-auto">
        <Instagram/>
+       <Newsletter/>
     </div>
     </main>
 

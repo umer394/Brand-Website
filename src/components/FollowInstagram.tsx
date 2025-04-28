@@ -12,6 +12,7 @@ export default function Instagram(){
                <Image src={"/insta2.png"} alt={"insta"} width={200} height={380}/>
                <Image src={"/insta1.png"} alt={"insta"} className="py-10" width={250} height={250}/>
                <Image src={"/insta2.png"} alt={"insta"} width={200} height={380}/>
+               <Image src={"/insta1.png"} alt={"insta"} className="py-10" width={250} height={250}/>
             </div>
         </div>
     )

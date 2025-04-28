@@ -18,7 +18,7 @@ export default function Arrivals(){
             </div>
             <div className="flex flex-col justify-center items-center">
                 <CardDemo/>
-                <Button className=" mt-5 cursor-pointer hover:bg-white bg-black text-white hover:text-[#8A8A8A] rounded-lg py-6 px-10 shadow-lg text-md">View More</Button>
+                <Button className=" mt-14 cursor-pointer hover:bg-white bg-black text-white hover:text-[#8A8A8A] rounded-lg py-6 px-10 shadow-lg text-md">View More</Button>
             </div>
         </div>
     )
